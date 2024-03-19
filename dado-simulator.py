@@ -1,5 +1,7 @@
-import time, os, random
+import time, os, random 
+#
 print('Bem vindo ao gira-dado ')
+#
 time.sleep(2)
 os.system('cls')
 tamanho = int(input('Qual tamanho do dado você deseja girar? '))
@@ -9,3 +11,4 @@ if girar == 'SIM' or girar == 'S':
     print('D{}'.format(dado))
 elif girar == 'NAO' or girar == 'N':
     print('Ok! saindo.')
+    #
