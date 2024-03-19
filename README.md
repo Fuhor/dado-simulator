@@ -1,6 +1,7 @@
 # dado-simulator
 
 Simulador de Dado em Python
+
 Este é um simples simulador de dado que permite ao usuário escolher o número de lados do dado e, em seguida, gera um número aleatório que representa o resultado da rolagem do dado.
 
 * Funcionalidades:
