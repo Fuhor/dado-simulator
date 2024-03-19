@@ -15,9 +15,9 @@ Veja o resultado da rolagem do dado.
 Repita o processo ou saia do programa conforme desejado.
 
 * Tecnologias Utilizadas:
-Python 3
-Módulo random para geração de números aleatórios
-Módulo time para temporização e estética do programa
+Python 3,
+Módulo random para geração de números aleatórios,
+Módulo time para temporização e estética do programa,
 Módulo os para limpar a tela
 
 * Instalação:
